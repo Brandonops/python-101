@@ -1,0 +1,5 @@
+print("Please fill in the blanks below:")
+print("The _____(animal)_____ crawled into Grandma's House and ate her _____(type of food)____.")
+animal = input("Choose an animal:")
+food = input("Choose a type of food:")
+print("The " + animal + " crawled into Grandma's House and ate her " + food + ".")
