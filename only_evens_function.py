@@ -12,4 +12,4 @@ def only_evens(num):
             return i
 
 
-print(only_evens([11, 20, 42, 97, 23, 10]))
+print(only_evens([11, 20, 42, 97, 23, 10, 50, 10, 12402, 12, 1452]))
